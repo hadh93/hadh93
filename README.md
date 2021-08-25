@@ -21,9 +21,9 @@
 ## 💻 Workspace Spec - Windows 10
 
 <p>
-   <img src = "https://img.shields.io/badge/Windows-DELL_G7_15-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-   <img src = "https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-   <img src = "https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+   <img src = "https://img.shields.io/badge/Windows-DELL_G7_15-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat">
+   <img src = "https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white&style=flat">
+   <img src = "https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white&style=flat">
 </p>
 
 <br>
@@ -31,7 +31,7 @@
 ## 💻 Workspace Spec - macOS
 
 <p>
-   <img src= "https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white">
+   <img src= "https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white&style=flat">
 </p>
 
 
