@@ -3,8 +3,9 @@
 ### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
    
    
-#### 🛠 Tech Stack 🛠
-   
+🛠 Tech Stack 🛠
+======================
+
 ## Primary Tools/Languges:
 > <p>
 >   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
