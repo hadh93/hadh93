@@ -3,9 +3,11 @@
 ### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
 
 ### Github Stats
-   
-<img src="https://github-readme-stats.vercel.app/api?username=hadh93&theme=react&show_icons=true" height="180px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadh93&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+
+<p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadh93&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">   
+   <img src="https://github-readme-stats.vercel.app/api?username=hadh93&theme=react&show_icons=true" height="180px">
+</p>
 
 ## 💻 Workspace Spec - Windows 10
 
