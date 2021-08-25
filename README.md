@@ -1,10 +1,10 @@
 👋 Hi, I’m @hadh93
 ======================
 ### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
-
-
+   
+   
 #### 🛠 Tech Stack 🛠
-
+   
 ## Primary Tools/Languges:
 <p>
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -13,64 +13,64 @@
   <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
-
-
+   
+   
 ## Currently Learning:
-
+   
 ### Java Back-End Engineering
 <p>
   <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-
+   
+   
 ### Unity Game Programming
-
+   
 <p>
   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
-
-
-
+   
+   
+   
 ## Tools/Languages I've used at least once:
-
-
+   
+   
 ### General Programming Language
-
+   
 <p>
   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
-
-
+   
+   
 ### Web Framework (Back-End)
-
+   
 <p>
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
-
-
+   
+   
 ### Web Framework (Front-End)
-
+   
 <p>
   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </p>
-
-
+   
+   
 ### DB / Data Science
-
+   
 <p>
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>  
-
-
-
+   
+   
+   
 ### Github Stats
-
+   
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=hadh93&theme=react&show_icons=true" height="180px">
 </a>
