@@ -9,7 +9,7 @@
 
 <br>
 
-### Github Stats
+### 📈 Github Stats
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadh93&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">   
