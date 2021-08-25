@@ -12,15 +12,6 @@
 ### 📈 Github Stats
 
 <p>
-   <img src = "https://img.shields.io/github/languages/count/hadh93/survive">
-   <img src = "https://img.shields.io/github/languages/top/hadh93/survive">
-   <img src = "https://img.shields.io/github/languages/code-size/hadh93/survive">
-   <img src = "https://img.shields.io/github/repo-size/hadh93/survive">
-   <img src = "https://img.shields.io/github/commit-activity/w/hadh93/survive">
-   <img src = "https://img.shields.io/github/last-commit/hadh93/survive">
-</p>
-
-<p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadh93&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">   
    <img src="https://github-readme-stats.vercel.app/api?username=hadh93&theme=react&show_icons=true" height="180px">
 </p>
