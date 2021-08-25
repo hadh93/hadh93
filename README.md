@@ -128,3 +128,9 @@
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 >   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 > </p>
+
+- 게임 개발
+> <p>
+>    <img src = "https://img.shields.io/badge/discord-roblox%20api%20chat-blue.svg?style=for-the-badge">
+>    <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+> </p>
