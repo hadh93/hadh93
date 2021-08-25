@@ -2,9 +2,8 @@
 ======================
 
 ### 👀 I’m interested in ...
-- MLOps
 - Django & Web Programming
-- Data Analysis
+- Data Analysis & MLOps
 - Unity Game Programming
 
 <br>
