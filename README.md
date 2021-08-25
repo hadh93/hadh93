@@ -1,14 +1,14 @@
-👋 Hi, I’m @hadh93
+👋 반갑습니다. 개발자 @hadh93입니다.
 ======================
 
-### 👀 I’m interested in ...
-- Django & Web Programming
-- Data Analysis & MLOps
-- Unity Game Programming
+### 👀 주요 관심사:
+- 웹 프로그래밍 (Django 기반)
+- 데이터 분석 & MLOps
+- Unity 게임 프로그래밍
 
 <br>
 
-### 📈 Github Stats
+### 📈 Github 관련 통계
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadh93&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">   
@@ -18,7 +18,7 @@
 <br><br>
 
 
-## 💻 Workspace Spec - Windows 10
+## 💻 개발 장비 - Windows 10
 
 <p>
    <img src = "https://img.shields.io/badge/Windows-DELL_G7_15-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat">
@@ -28,7 +28,7 @@
 
 <br>
 
-## 💻 Workspace Spec - macOS
+## 💻 개발 장비 - macOS
 
 <p>
    <img src= "https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white&style=flat">
@@ -38,13 +38,13 @@
 <br><br>
 
 
-🛠 Tech Stack 🛠
+🛠 테크 스택 🛠
 ======================
 
 <br>
 
 
-## Primary Tools/Languges:
+## 주 개발 언어:
 
 
 > <p>
@@ -60,10 +60,10 @@
 <br>
 
 
-## Currently Learning:
+## 현재 학습중:
 
 
-- Java Back-End Engineering
+- Spring Framework를 활용한 Java Back-End 웹 프로그래밍
 > <p>
 >    <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 >    <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -72,7 +72,7 @@
 
 <br>
 
-- Unity Game Programming
+- Unity 게임 프로그래밍
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
@@ -81,11 +81,11 @@
 
 <br><br>
 
-## Tools/Languages I've used at least once:
+## 사용 경험이 있는 언어/개발 도구:
 
 <br>
 
-- General Programming Language
+- 프로그래밍 언어
    
 > <p>
 >   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -94,7 +94,7 @@
 
 <br>
 
-- Web Development Framework (Back-End)
+- 웹 프레임워크 (Back-End)
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -103,7 +103,7 @@
 
 <br>
 
-- Web Development Framework (Front-End)
+- 웹 프레임워크 (Front-End)
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -112,7 +112,7 @@
 
 <br>
 
-- DB / Data Science
+- DB / 데이터 분석
    
 > <p>
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
