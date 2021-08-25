@@ -1,6 +1,8 @@
 👋 반갑습니다. 개발자 @hadh93입니다.
 ======================
 
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)
+
 <a href="/README_en.md">English 👈</a> <a href=""></a>
 
 ### 👀 주요 관심사:
