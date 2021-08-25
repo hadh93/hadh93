@@ -80,6 +80,8 @@
 >    <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 > </p>
 
+<br>
+
 - Unity 게임 프로그래밍
    
 > <p>
