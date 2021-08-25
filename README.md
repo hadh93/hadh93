@@ -2,8 +2,8 @@
 ======================
 ### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
 
-<img src = "https://starchart.cc/hadh93/django_sample_page.svg">
-   
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hadh93&theme=blue-green">
+
 🛠 Tech Stack 🛠
 ======================
 
