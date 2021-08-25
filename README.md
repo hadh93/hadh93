@@ -15,14 +15,15 @@
 
 
 ## Currently Learning:
-- Java Back-End Engineering
+
+### Java Back-End Engineering
 <p>
   <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 
-## Unity Game Programming
+### Unity Game Programming
 
 <p>
   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
