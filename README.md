@@ -1,8 +1,11 @@
 👋 Hi, I’m @hadh93
 ======================
+
+<br>
+
 ### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
 
-<br><br><br>
+<br><br>
 
 ### Github Stats
 
@@ -11,7 +14,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=hadh93&theme=react&show_icons=true" height="180px">
 </p>
 
-<br><br><br>
+<br><br>
 
 
 ## 💻 Workspace Spec - Windows 10
@@ -29,18 +32,18 @@
 </p>
 
 
-<br><br><br>
+<br><br>
 
 
 🛠 Tech Stack 🛠
 ======================
 
-<br><br>
+<br>
 
 
 ## Primary Tools/Languges:
 
-<br><br>
+<br>
 
 > <p>
 >   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -52,13 +55,12 @@
 > </p>
 
 
-<br><br>
+<br>
 
 
 ## Currently Learning:
 
-<br><br>
-
+<br>
 
 ### Java Back-End Engineering
 > <p>
@@ -66,7 +68,7 @@
 >    <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 > </p>
 
-<br><br>
+<br>
 
 ### Unity Game Programming
    
@@ -79,7 +81,7 @@
 
 ## Tools/Languages I've used at least once:
 
-<br><br>
+<br>
 
 ### General Programming Language
    
@@ -88,7 +90,7 @@
 >   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 > </p>
 
-<br><br>
+<br>
 
 ### Web Framework (Back-End)
    
@@ -97,7 +99,7 @@
 >   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 > </p>
 
-<br><br>
+<br>
 
 ### Web Framework (Front-End)
    
@@ -106,7 +108,7 @@
 >   <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 > </p>
 
-<br><br>
+<br>
 
 ### DB / Data Science
    
