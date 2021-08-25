@@ -1,7 +1,11 @@
 👋 Hi, I’m @hadh93
 ======================
 
-### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
+### 👀 I’m interested in ...
+- MLOps
+- Django & Web Programming
+- Data Analysis
+- Unity Game Programming
 
 <br><br>
 
