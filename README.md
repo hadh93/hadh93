@@ -128,5 +128,3 @@
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 >   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 > </p>
-
-<img src = "https://img.shields.io/badge/?logo=data:http://www.w3.org/2000/svg;base64">
