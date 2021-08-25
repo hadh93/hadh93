@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @hadh93
 - 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
-- 🌱 I’m currently learning ... Unity, C#, Java Spring
-- 💞️ I’m looking to collaborate on ... Web Programming using Spring or Django, and Indie game programming using Unity & C#.
-- 📫 How to reach me ... hoondiggity@gmail..com
 
 
 #### 🌠 Experience
@@ -19,11 +16,12 @@ Primary Tools/Languges:
 </p>
 
 Currently Learning:
-
+- Java Back-End Engineering
 <p>
   <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+- Unity Game Programming
 <p>
   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -31,18 +29,22 @@ Currently Learning:
 
 
 Tools/Languages I've used at least once:
+- General Programming Language
 <p>
   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
+- Web Framework (Back-End)
 <p>
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
+- Web Framework (Front-End)
 <p>
   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </p>
+- DB / Data Science
 <p>
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
