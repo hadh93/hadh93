@@ -131,6 +131,6 @@
 
 - 게임 개발
 > <p>
->    <img src = "https://img.shields.io/badge/?logo=https://www.citypng.com/photo/7025/hd-new-roblox-logo-icon-png;base64?style=for-the-badge&logoColor=white">
+>    <img src = "https://img.shields.io/badge/?logo=https://www.citypng.com/photo/7025/hd-new-roblox-logo-icon-png?style=for-the-badge&logoColor=white">
 >    <img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
 > </p>
