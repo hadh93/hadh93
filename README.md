@@ -64,7 +64,7 @@
 ## Currently Learning:
 
 
-### Java Back-End Engineering
+- Java Back-End Engineering
 > <p>
 >    <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 >    <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -72,7 +72,7 @@
 
 <br>
 
-### Unity Game Programming
+- Unity Game Programming
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
@@ -85,7 +85,7 @@
 
 <br>
 
-### General Programming Language
+- General Programming Language
    
 > <p>
 >   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -94,7 +94,7 @@
 
 <br>
 
-### Web Framework (Back-End)
+- Web Development Framework (Back-End)
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -103,7 +103,7 @@
 
 <br>
 
-### Web Framework (Front-End)
+- Web Development Framework (Front-End)
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -112,7 +112,7 @@
 
 <br>
 
-### DB / Data Science
+- DB / Data Science
    
 > <p>
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
