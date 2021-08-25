@@ -1,7 +1,7 @@
 👋 반갑습니다. 개발자 @hadh93입니다.
 ======================
 
-<a href="/README_en.md">English 👈</a>
+<a href="/README_en.md">English 👈</a> <a href=""></a>
 
 ### 👀 주요 관심사:
 - 웹 프로그래밍 (Django 기반)
@@ -129,3 +129,4 @@
 >   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 > </p>
 
+<img src = "https://img.shields.io/badge/?logo=data:http://www.w3.org/2000/svg;base64"
