@@ -1,7 +1,8 @@
 👋 Hi, I’m @hadh93
 ======================
 ### 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
-   
+
+<img src = "https://starchart.cc/hadh93/django_sample_page.svg">   
    
 🛠 Tech Stack 🛠
 ======================
