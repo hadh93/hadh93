@@ -2,11 +2,9 @@
 - 👀 I’m interested in ... MLOps, Django & Web Programming, Data Analysis, Unity Game Programming.
 
 
-#### 🌠 Experience
+#### 🛠 Tech Stack 🛠
 
-<h3>🛠 Tech Stack 🛠</h3>
-
-Primary Tools/Languges:
+## Primary Tools/Languges:
 <p>
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -15,14 +13,14 @@ Primary Tools/Languges:
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
-Currently Learning:
+## Currently Learning:
 - Java Back-End Engineering
 <p>
   <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-- Unity Game Programming
+## - Unity Game Programming
 
 <p>
   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
@@ -30,7 +28,7 @@ Currently Learning:
 </p>
 
 
-Tools/Languages I've used at least once:
+## Tools/Languages I've used at least once:
 
 - General Programming Language
 
