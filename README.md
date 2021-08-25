@@ -2,7 +2,7 @@
 ======================
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=hoondog1993@gmail.com)](hoondog1993@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://hoondog1993@gmail.com)](https://hoondog1993@gmail.com)
 
 <a href="/README_en.md">English 👈</a> <a href=""></a>
 
