@@ -61,7 +61,7 @@
 <br>
 
 
-## Currently Learning:
+## - Currently Learning:
 
 
 ### Java Back-End Engineering
