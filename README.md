@@ -7,7 +7,7 @@
 <a href="/README_en.md">English 👈</a> <a href=""></a>
 
 ### 👀 주요 관심사:
-- 웹 프로그래밍 (Django 기반)
+- 웹 프로그래밍 (Django, Flask, Spring)
 - 데이터 분석 & MLOps
 - Unity 게임 프로그래밍
 
