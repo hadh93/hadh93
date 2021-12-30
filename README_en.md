@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:hoondog1993@gmail.com)](mailto:hoondog1993@gmail.com)
 
 ### 👀 I’m interested in ...
+- Data Analysis & Data Science
 - Django & Web Programming
-- Data Analysis & MLOps
 - Unity Game Programming
 
 <br>
