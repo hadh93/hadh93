@@ -7,7 +7,7 @@
 <a href="/README_en.md">English ver. 👈</a> <a href=""></a>
 
 ### 👀 주요 관심사:
-- 데이터 분석
+- 데이터 분석 & 데이터 사이언스
 - 웹 프로그래밍 (Django, Flask, Spring)
 - Unity 게임 프로그래밍
 
