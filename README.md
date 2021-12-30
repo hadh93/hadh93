@@ -1,4 +1,4 @@
-👋 반갑습니다. 개발자 @hadh93입니다.
+👋 반갑습니다. 데이터의 통찰을 믿는 @hadh93입니다.
 ======================
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)
@@ -7,8 +7,8 @@
 <a href="/README_en.md">English ver. 👈</a> <a href=""></a>
 
 ### 👀 주요 관심사:
+- 데이터 분석
 - 웹 프로그래밍 (Django, Flask, Spring)
-- 데이터 분석 & MLOps
 - Unity 게임 프로그래밍
 
 <br>
