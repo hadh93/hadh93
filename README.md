@@ -33,12 +33,6 @@
 
 <br>
 
-## 💻 개발 장비 - macOS
-
-<p>
-   <img src= "https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white&style=flat">
-</p>
-
 
 <br><br>
 
