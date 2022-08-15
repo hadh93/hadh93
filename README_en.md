@@ -29,15 +29,6 @@
    <img src = "https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white&style=flat">
 </p>
 
-<br>
-
-## 💻 Workspace Spec - macOS
-
-<p>
-   <img src= "https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white&style=flat">
-</p>
-
-
 <br><br>
 
 
