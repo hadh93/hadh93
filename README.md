@@ -8,8 +8,8 @@
 
 ### 👀 I’m interested in ...
 - Data Analysis & Data Science
-- Django & Web Programming
-- Unity Game Programming
+- Web Programming
+- Game Programming
 
 <br>
 
