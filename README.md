@@ -98,7 +98,7 @@
 
 <br>
 
-- Web Development Framework (Back-End)
+- Web Framework (Back-End)
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -107,7 +107,7 @@
 
 <br>
 
-- Web Development Framework (Front-End)
+- Web Framework (Front-End)
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
