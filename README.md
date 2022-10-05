@@ -7,7 +7,7 @@
 <a href="/README_kr.md"> [ 한국어 소개는 이쪽입니다! ] 👈</a> 
 
 ### 👀 I’m interested in ...
-- Data Analysis & Data Science
+- Data Science & Data Analysis
 - Web Programming
 - Game Programming
 
