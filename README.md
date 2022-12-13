@@ -44,7 +44,7 @@
 
 
 > <p>
->   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+>   <img src = "https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white">
 >   <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 >   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 >   <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -121,4 +121,12 @@
 > <p>
 >   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 >   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+> </p>
+
+- Programming Education
+
+> <p>
+> <img src = "https://img.shields.io/badge/Roblox-100000?style=for-the-badge&logo=roblox&logoColor=white">
+> <img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+> <img src = "https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white">
 > </p>
