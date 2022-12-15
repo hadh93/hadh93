@@ -73,6 +73,13 @@
 
 <br>
 
+- DevOps
+> <p>
+>    <img src = "https://img.shields.io/badge/Amazon AWS-FF9900.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+> </p>
+
+<br>
+
 <br><br>
 
 ## Tools/Languages I've used at least once:
