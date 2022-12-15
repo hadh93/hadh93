@@ -23,7 +23,7 @@
 <br><br>
 
 
-## 💻 Workspace Spec - Windows 10
+## 💻 Workspace Environment - Windows 11
 
 <p>
    <img src = "https://img.shields.io/badge/Windows-DELL_G7_15-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat">
@@ -118,7 +118,7 @@
 > <p>
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 >   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
->   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+>   <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 > </p>
 
 <br>
