@@ -8,7 +8,6 @@
 ### 👀 주요 관심사:
 - 데이터 분석 & 데이터 사이언스
 - 웹 프로그래밍 (Django, Flask, Spring)
-- Unity 게임 프로그래밍
 
 <br>
 
@@ -22,7 +21,7 @@
 <br><br>
 
 
-## 💻 개발 장비 - Windows 10
+## 💻 개발 환경 - Windows 11
 
 <p>
    <img src = "https://img.shields.io/badge/Windows-DELL_G7_15-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat">
@@ -73,6 +72,15 @@
 >    <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 > </p>
 
+<br>
+
+- 클라우드 컴퓨팅 및 데브옵스(DevOps)
+> <p>
+>    <img src = "https://img.shields.io/badge/Amazon AWS-FF9900.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+> </p>
+
+<br>
+
 
 <br><br>
 
@@ -107,8 +115,8 @@
 
 <br>
 
-- DB / 데이터 분석
-   
+- 데이터 사이언스 / DB
+  
 > <p>
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 >   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -117,10 +125,18 @@
 
 <br>
 
-- Unity 게임 프로그래밍
+- 게임 프로그래밍
    
 > <p>
 >   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 >   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 > </p>
 
+<br>
+
+- 프로그래밍 교육
+
+> <p>
+> <img src = "https://img.shields.io/badge/Roblox-100000?style=for-the-badge&logo=roblox&logoColor=white">
+> <img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+> </p>
