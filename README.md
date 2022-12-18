@@ -71,7 +71,7 @@
 
 <br>
 
-- DevOps
+- Cloud Computing & DevOps
 > <p>
 >    <img src = "https://img.shields.io/badge/Amazon AWS-FF9900.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 > </p>
@@ -111,7 +111,7 @@
 
 <br>
 
-- Data Science / Data Engineering
+- Data Science / DB
    
 > <p>
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
