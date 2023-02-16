@@ -58,7 +58,7 @@
 ## 현재 학습중:
 
 
-- Spring Framework를 활용한 Java Back-End 웹 프로그래밍
+- 웹 개발 Back-End
 > <p>
 >    <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 >    <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -66,7 +66,7 @@
 
 <br>
 
-- 기계학습
+- ML/
 > <p>
 >    <img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 >    <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
