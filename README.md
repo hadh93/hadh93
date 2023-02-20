@@ -31,6 +31,8 @@
    <img src = "https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white&style=flat">
 </p>
 
+<br>
+
 ## 💻 Workspace Spec - macOS
 
 <p>
