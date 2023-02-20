@@ -31,6 +31,14 @@
 
 <br>
 
+## 💻 Workspace Spec - macOS
+
+<p>
+   <img src= "https://img.shields.io/badge/Apple-MacBook_Pro_2021_M1_Pro-999999?style=for-the-badge&logo=apple&logoColor=white&style=flat">
+</p>
+
+<br>
+
 
 <br><br>
 
