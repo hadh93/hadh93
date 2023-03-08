@@ -82,7 +82,7 @@
 
 <br>
 
-- Cloud Computing & DevOps
+- Cloud Computing & DevOps 
 > <p>
 >    <img src = "https://img.shields.io/badge/Amazon AWS-FF9900.svg?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 > </p>
