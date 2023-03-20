@@ -24,7 +24,7 @@
 
 
 ## 💻 Workspace Environment - Windows 11
-
+ 
 <p>
    <img src = "https://img.shields.io/badge/Windows-DELL_G7_15-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat">
    <img src = "https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white&style=flat">
