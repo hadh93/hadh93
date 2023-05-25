@@ -155,3 +155,12 @@
 > <img src = "https://img.shields.io/badge/Roblox-100000?style=for-the-badge&logo=roblox&logoColor=white">
 > <img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 > </p> 
+
+<br>
+
+- Networking
+
+> <p>
+> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=roblox&logoColor=white">
+> Studying for CCNA
+> </p>
