@@ -161,6 +161,6 @@
 - Networking
 
 > <p>
-> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=roblox&logoColor=white">
+> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
 > Studying for CCNA
 > </p>
