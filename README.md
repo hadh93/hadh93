@@ -162,5 +162,5 @@
 
 > <p>
 > <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
-> Studying for CCNA
+> <br> : Studying for CCNA
 > </p>
