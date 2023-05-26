@@ -65,6 +65,15 @@
 ## Currently Learning:
 
 
+- Networking
+
+> <p>
+> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
+> <br> : Studying for CCNA
+> </p>
+
+<br>
+
 - Java Back-End Engineering
 > <p>
 >    <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -156,11 +165,4 @@
 > <img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 > </p> 
 
-<br>
 
-- Networking
-
-> <p>
-> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
-> <br> : Studying for CCNA
-> </p>
