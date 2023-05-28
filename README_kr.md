@@ -6,7 +6,7 @@
 
 
 ### 👀 주요 관심사:
-- 데이터 분석 & 데이터 사이언스
+- 데이터 사이언스 & 데이터 분석
 - 웹 프로그래밍 (Django, Flask, Spring)
 
 <br>
@@ -65,6 +65,14 @@
 
 ## 현재 학습중:
 
+- 네트워크
+
+> <p>
+> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
+> <br> : CCNA 시험 응시 준비중
+> </p>
+
+<br>
 
 - 웹 개발 Back-End
 > <p>
