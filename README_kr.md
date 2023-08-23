@@ -65,6 +65,14 @@
 
 ## 현재 학습중:
 
+- 프로그래밍 언어
+   
+> <p>
+>   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+> </p>
+
+<br>
+
 - 네트워크
 
 > <p>
@@ -115,7 +123,6 @@
    
 > <p>
 >   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
->   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 > </p>
 
 <br>
