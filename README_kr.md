@@ -136,7 +136,7 @@
 
 <br>
 
-- 데이터 사이언스 / DB
+- 데이터 분석 / DB
   
 > <p>
 >   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
