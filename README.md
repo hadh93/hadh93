@@ -161,6 +161,7 @@
 > <p>
 > <img src = "https://img.shields.io/badge/Roblox-100000?style=for-the-badge&logo=roblox&logoColor=white">
 > <img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+> <img src = "https://img.shields.io/badge/Arduino-#00878F?style=for-the-badge&logo=arduino&logoColor=black"> 
 > </p> 
 
 
