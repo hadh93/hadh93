@@ -7,7 +7,7 @@
 
 ### 👀 주요 관심사:
 - 데이터 사이언스 & 데이터 분석
-- 웹 프로그래밍 (Django, Flask, Spring)
+- 웹 백엔드 프로그래밍 (Django, Flask, Spring)
 
 <br>
 
