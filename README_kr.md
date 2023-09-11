@@ -1,7 +1,7 @@
 👋 반갑습니다. 데이터의 통찰을 믿는 @dev_thomas입니다.
 ======================
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/donghun-ha-m-s-ed-a45588150/)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:hoondog1993@gmail.com)](mailto:hoondog1993@gmail.com)
 
 
