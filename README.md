@@ -85,6 +85,7 @@
 - Machine Learning
 > <p>
 >    <img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+>    <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 >    <img src = "https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white">
 > </p>
 
