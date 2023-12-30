@@ -73,21 +73,22 @@
 
 <br>
 
+
+- Machine Learning
+> <p>
+>    <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+>    <img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+>    <img src = "https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white">
+> </p>
+
+<br>
+
 - Java Back-End Engineering
 > <p>
 >    <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 >    <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 > </p>
 
-
-<br>
-
-- Machine Learning
-> <p>
->    <img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
->    <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
->    <img src = "https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white">
-> </p>
 
 <br>
 
