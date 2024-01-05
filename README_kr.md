@@ -1,4 +1,4 @@
-👋 반갑습니다. 데이터의 통찰을 믿는 @dev_thomas입니다.
+👋 반갑습니다. @dev_thomas입니다.
 ======================
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)
