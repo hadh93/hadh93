@@ -64,15 +64,6 @@
 
 <br>
 
-- 네트워크
-
-> <p>
-> <img src = "https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
-> <br> : CCNA 시험 응시 준비중
-> </p>
-
-<br>
-
 - 웹 개발 Back-End
 > <p>
 >    <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
