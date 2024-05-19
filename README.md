@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadh93&count_bg=%2376B900&title_bg=%23555555&icon=github.svg&icon_color=%2000000&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
  
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-ha-m-s-ed-a45588150/)](https://www.linkedin.com/in/thomas-ha-m-s-ed-m-s-a45588150/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:hoondog1993@gmail.com)](mailto:hoondog1993@gmail.com)
 
 
