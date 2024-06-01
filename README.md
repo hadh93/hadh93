@@ -9,8 +9,7 @@
 
 ### 👀 I’m interested in ... 
 - **Data Science** & Data Analysis
-- Problem Solving
-- Web Programming
+- Web Programming (Back-end)
 - Game Programming
    
 ### 🛠 Tech Stacks 🛠
