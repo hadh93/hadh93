@@ -11,7 +11,7 @@
 - **Data Science** & Data Analysis
 - Web Programming (Back-end)
 - Game Programming
-   
+    
 ### 🛠 Tech Stacks 🛠
 
 #### Primary:
